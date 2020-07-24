@@ -1,3 +1,4 @@
+Fork of [CodenameOne](https://github.com/codenameone/CodenameOne). I'm planning to optimise this maybe make it universally available and easy to setup.
 # codenames.plus
 nodejs server for multiplayer codenames webapp game
 
